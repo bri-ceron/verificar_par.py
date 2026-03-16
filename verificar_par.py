@@ -14,4 +14,3 @@ resultado = verificar_par(num)
 # Mostrar resultado
 print(resultado)
 
-1
